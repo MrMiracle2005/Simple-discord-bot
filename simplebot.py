@@ -22,4 +22,4 @@ async def on_message(message):
 async def ping(ctx):
     await ctx.send(f"Pong **ping**: {round(client.latency * 1000)}ms")         
 
-client.run('Nzk1ODY5MTI0OTQ5NTczNjcy.X_Po4Q.bprUGMEuqXtpw-X-wy3xiFkZMPo')
+client.run('your token here')
